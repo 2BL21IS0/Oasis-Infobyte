@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Your Portfolio</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+<img src="C:\Users\admin\Pictures\images.jpeg">
+    <header>
+        <h1>Tejaswini Malagatti</h1>
+        <p>Hello everyone!!!It's me Tejaswini Malagatti currently studying in Bachelor Engineering in the field of Information Science(IS).I have deep passion for 
+technology,web development.I have worked on some projects.</p>
+    </header>
+
+    <section id="about">
+        <img src="C:\Users\admin\Pictures\download.jpeg" alt="Tejaswini Malagatti">
+        <p>Hi all. As u all know myself Tejaswini Malagatti and currently pursuing in B.E in the field of Information Science(IS).I have deep passion for
+technology ,web development.And I have worked on some projects and took part in some of the courses and got certified.And I am very glad to say that Im 
+interseted in many of the things to get learned from many of the people to get to know new things,new technology.My professional skills are HTML,CSS,Bootstrap...</p>
+    </section>
+
+    <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+            <img src="C:\Users\admin\Pictures\download (1).jpeg">
+            <img src="C:\Users\admin\Pictures\download (2).jpeg">
+            <img src="C:\Users\admin\Pictures\images.png">
+        </ul>
+    </section>
+
+    <section id="projects">
+        <h2>Projects</h2>
+        <div class="project">
+            <h3>MOVIE TICKET BOOKING</h3>
+            <p>The main purpose of our online ticket booking system is to provide an alternate and convenient way for a customer to buy movie ticket. Customers can book movie tickets and view all of the movies playing in the movie hall through this project which allows them to book tickets at any time and from anywhere.
+The step by step procedure is followed to book the movie ticket by the user
+*The user can book movie ticket.
+*The user has to select the movie name.
+*Enter user details such as name and phone number.
+*Then the user has to enter seat number.
+*The selected seat number for the movie is booked. 
+*The cancelling of booked tickets can also be done by entering the booking.</p>
+       <img src="C:\Users\admin\Pictures\WhatsApp Image 2023-10-28 at 10.41.16_3ff5fd8f.jpg" width="900" height="550" alt="Project 1" border="0">
+        </div>
+        <div class="project">
+            <h3>Election Voting System</h3>
+            <p>The "Election Voting System" is a C program designed to facilitate the process of conducting elections by automating various tasks. 
+This program allows voters to cast their votes for a predefined list of candidates and provides administrators with tools to manage the election process.
+Overall,the "Election Voting System"aim is to design the election process and to provide a convenient way for voters to participate in democratic decision making. 
+It is easy task to get a comprehensive solution for conducting elections so that we can find out  easy vote counts through this project ..
+</p>
+        </div>
+    </section>
+
+   <section id="Certificates">
+   <h2>Certificates</h2>
+   <div class="Certificates">
+<img src="C:\Users\admin\Pictures\WhatsApp Image 2023-10-28 at 10.57.53_df4ca139.jpg" width="900" height="550" alt="certificate" border="0">
+
+    <section id="resume">
+        <h2>Resume</h2>
+        <a href="C:\Users\admin\Pictures\White Simple Student CV Resume_20231104_210353_0000.pdf" download>Download Resume (PDF)</a>
+    </section>
+
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Jalnagar Vijayapur,Karnataka</p>
+        <p>586109</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Tejaswini Malagatti</p>
+    </footer>
+</body>
+</html>
